@@ -330,7 +330,7 @@
     <sys:String x:Key="SettingsNotification">Ustawienia powiadomień</sys:String>
     <sys:String x:Key="EnableNotification">Włącz powiadomienia</sys:String>
     <!-- About Page -->
-    <sys:String x:Key="About">O</sys:String>
+    <sys:String x:Key="About">O nas</sys:String>
     <sys:String x:Key="AppInf">Informacje o aplikacji</sys:String>
     <sys:String x:Key="UpdateDate">Zaktualizowano na:</sys:String>
     <sys:String x:Key="Creator">Opracowany przez Yerong, w oparciu o Office Deployment Tool.</sys:String>
