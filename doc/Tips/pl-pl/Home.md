@@ -14,7 +14,7 @@ Office Tool Plus jest oparty na [Microsoft Office Deployment Tool](https://aka.m
 
 ---
 
-- <kbd>Esc</kbd>: Powrót do domu.
+- <kbd>Esc</kbd>: Powrót do głównego okna.
 - <kbd>F1</kbd>: Pomoc.
 - <kbd>F5</kbd>: ponowne załadowanie informacji pakietu Office.
 - <kbd>Ctrl + 1</kbd>: Przełącz na stronę wdrażania.
